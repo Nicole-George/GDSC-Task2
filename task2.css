@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(175, 168, 168);
+    font-family:cursive;
+}
+  
+       .navbar a {
+       
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 20px;
+      }
+       
+      
+    .navbar1 {
+        text-align: center;
+        font-size: x-large;
+        
+      }
+
+
+    h2{
+        text-align: center;
+        font-size: xx-large;
+     } 
+
+
+.p{
+    text-align: center;
+    font-size: large;
+    color: gray;
+}
+
+td{
+    color:blue;
+    padding: 10px;
+}
+table{
+    background-color: rgb(255, 145, 0);
+    border: dashed 3px;
+}
+.table{
+    background-color: rgb(0, 183, 255);
+    border: dashed 3px;
+}
+iframe{
+    padding-left: 300px;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 16px;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+
